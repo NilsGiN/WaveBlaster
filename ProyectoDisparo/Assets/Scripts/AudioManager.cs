@@ -9,6 +9,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] AudioSource SFXSource;
 
     [Header("-------- Audio Clip --------")]
+    public AudioClip Transition;
     public AudioClip Background;
     public AudioClip Wave;
     public AudioClip Shoot;
@@ -31,6 +32,12 @@ public class AudioManager : MonoBehaviour
 
     private void Start()
     {
+        StartCoroutine(PlayMusicWithDelay());
+    }
+
+    IEnumerator PlayMusicWithDelay()
+    {
+        yield return new WaitForSeconds(1);
         musicSource.clip = Background;
         musicSource.Play();
     }

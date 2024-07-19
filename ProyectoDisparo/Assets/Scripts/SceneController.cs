@@ -6,6 +6,12 @@ using UnityEngine.SceneManagement;
 public class SceneController : MonoBehaviour
 {
     [SerializeField] Animator transitionAnim;
+    AudioManager audioManager;
+
+    private void Start()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 
     public void NextLevel()
     {
@@ -28,5 +34,6 @@ public class SceneController : MonoBehaviour
         yield return new WaitForSeconds(2);
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
         transitionAnim.SetTrigger("Start");
+        audioManager.PlaySFX(audioManager.Explosion);
     }
 }
