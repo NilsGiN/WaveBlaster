@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8158805033084849605}
   - component: {fileID: 1195615461310329348}
   - component: {fileID: 6194020556907377855}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bullet
   m_TagString: PlayerBullet
   m_Icon: {fileID: 0}
@@ -86,9 +86,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8158805033084849605}
     m_Modifications:
+    - target: {fileID: 3967958442047208713, guid: b454613c3248bc743a9603897b57b215, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 3968039631655278273, guid: b454613c3248bc743a9603897b57b215, type: 3}
       propertyPath: m_Name
       value: FireBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 3968039631655278273, guid: b454613c3248bc743a9603897b57b215, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3970292693099572209, guid: b454613c3248bc743a9603897b57b215, type: 3}
       propertyPath: m_LocalPosition.x
@@ -148,9 +156,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8158805033084849605}
     m_Modifications:
+    - target: {fileID: 1000011144422356, guid: 1e15d82f04b99aa4c9b28e87530510d6, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 1000012327391772, guid: 1e15d82f04b99aa4c9b28e87530510d6, type: 3}
       propertyPath: m_Name
       value: Bullet1(3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012327391772, guid: 1e15d82f04b99aa4c9b28e87530510d6, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012741561742, guid: 1e15d82f04b99aa4c9b28e87530510d6, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4000013080835110, guid: 1e15d82f04b99aa4c9b28e87530510d6, type: 3}
       propertyPath: m_LocalPosition.x

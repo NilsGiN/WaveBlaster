@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6099135799609940371}
   - component: {fileID: 2796236405800498086}
   - component: {fileID: 6687419507668608087}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -116,7 +116,7 @@ GameObject:
   - component: {fileID: 8817848379371917382}
   - component: {fileID: 885475916283660736}
   - component: {fileID: 87355976737831528}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: BulletEnemy
   m_TagString: EnemyBullet
   m_Icon: {fileID: 0}
@@ -180,7 +180,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effectImpact: {fileID: 1828176872806910, guid: 64891a0eb28db934898420d80ca07cb3, type: 3}
-  effectImpactcoll: {fileID: 1000011128802252, guid: 96730f8640590934eacb6f860058e7f9, type: 3}
+  effectImpactcoll: {fileID: 1025285306637258, guid: d8f0099df63275647a8bcf646df1ca00, type: 3}
+  damageAmount: 10
   power: 20
   lifeTime: 4
   time: 0
@@ -204,9 +205,17 @@ PrefabInstance:
       propertyPath: InitialModule.startColor.maxColor.r
       value: 0.9811321
       objectReference: {fileID: 0}
+    - target: {fileID: 3967958442047208713, guid: b454613c3248bc743a9603897b57b215, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 3968039631655278273, guid: b454613c3248bc743a9603897b57b215, type: 3}
       propertyPath: m_Name
       value: FireBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 3968039631655278273, guid: b454613c3248bc743a9603897b57b215, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3970292693099572209, guid: b454613c3248bc743a9603897b57b215, type: 3}
       propertyPath: m_LocalPosition.x

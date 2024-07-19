@@ -25,7 +25,7 @@ public class BulletController : MonoBehaviour
         if (time >= lifeTime)
         {
             Destroy(Instantiate(effectImpact, transform.position, transform.rotation), 2.0f);
-            Destroy(this.gameObject);
+            Destroy(this.gameObject);            
         }
     }
 

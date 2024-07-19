@@ -16,6 +16,8 @@ public class GameManager : MonoBehaviour
     public TMP_Text pointsText;
     public TMP_Text waveCounterText;  // Texto para el contador de oleadas
 
+    [SerializeField] private GameObject MenuGameOver;
+
     void Start()
     {
         defeatedEnemies = 0;
@@ -23,6 +25,8 @@ public class GameManager : MonoBehaviour
         ActualizarBarraDeVida();
         points = 0;
         ActualizarPuntosUI();
+        Time.timeScale = 1;
+        MenuGameOver.SetActive(false);
     }
 
     void Update()
@@ -51,8 +55,8 @@ public class GameManager : MonoBehaviour
             if (player != null)
             {
                 player.SetActive(false);
-                SceneController.RestartLevel();
-                // Aquí podrías reiniciar el juego, mostrar una pantalla de game over, etc.
+                MenuGameOver.SetActive(true);
+                Time.timeScale = 0;
             }
         }
     }
