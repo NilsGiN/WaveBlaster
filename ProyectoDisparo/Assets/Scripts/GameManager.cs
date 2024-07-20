@@ -99,4 +99,9 @@ public class GameManager : MonoBehaviour
             waveCounterText.text = "Oleada: " + wave;
         }
     }
+
+    public int GetPoints()
+    {
+        return points;
+    }
 }
