@@ -10,7 +10,7 @@ public class Laderboard : MonoBehaviour
     private List<TextMeshProUGUI> names;
     [SerializeField]
     private List<TextMeshProUGUI> scores;
-    private string publicLeaderboardKey = "3739b03a61cc1af7524694f1a5af456273e1817b946d0046c9651932015abc7b";
+    private string publicLeaderboardKey = "6e3e6fb3e853b8344c38fecbe1407fc7bff620262caa523160859b17ba2aaa22";
     private void GetLeaderBoard()
     {
         LeaderboardCreator.GetLeaderboard(publicLeaderboardKey, ((msg) => {
@@ -19,6 +19,7 @@ public class Laderboard : MonoBehaviour
             {   
                 names[i].text = msg[i].Username;
                 scores[i].text = msg[i].Score.ToString();
+                Debug.Log(msg[i].Score.ToString());
             }
         }));
     }

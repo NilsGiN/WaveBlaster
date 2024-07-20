@@ -22,7 +22,7 @@ public class WaveController : MonoBehaviour
 
     void Start()
     {
-        waveCount = 2;
+        waveCount = 5;
         wave = 1;
         spawning = false;
         enemiesSpawned = 0;
@@ -62,12 +62,12 @@ public class WaveController : MonoBehaviour
         for (int i = 0; i < waveC; i++)
         {
             SpawnEnemy(wave);
-            yield return new WaitForSeconds(2);
+            yield return new WaitForSeconds(0.5f);
         }
 
         // Incrementar número de oleada y cantidad de enemigos para la próxima oleada
         wave += 1;
-        waveCount += 2;
+        waveCount += 5;
         gameManager.UpdateWaveCounter(wave);
         spawning = false;
     }

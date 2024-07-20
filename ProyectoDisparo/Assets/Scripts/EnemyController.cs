@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+#if UNITY_EDITOR
 using UnityEditor.Build.Content;
+#endif
 using UnityEngine;
 
 public class EnemyController : MonoBehaviour
