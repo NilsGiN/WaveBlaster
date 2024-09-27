@@ -1,2 +1,2 @@
 # WaveBlaster
-![](/WaveBlaster_GamePlay.mp4)
+![](/WaveBlaster_GamePlay.gif)
