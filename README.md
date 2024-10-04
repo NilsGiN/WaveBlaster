@@ -9,7 +9,7 @@
 </div>
 
 
-<div align="">
+<div align="center">
   <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" />
 </div>
 
