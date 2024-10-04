@@ -38,8 +38,8 @@ Funciones realizadas
   <img src="/funciones_realizadas.png" alt="Funciones" width="100%"/>
 </div>
 
-<div align="right">
-  <img src="/transicion_menus.PNG" align="right" alt="transiciones" height="500px">
+<div>
+  <img src="/transicion_menus.PNG" align="right" alt="transiciones" height="300px">
   <ol>
     <li >Movimiento del jugador</li>
     <li>Disparo de jugador</li>
