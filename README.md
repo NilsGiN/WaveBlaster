@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" />
+  <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" width="100%"/>
 </div>
 
 Sinopsis
