@@ -9,14 +9,14 @@
   <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" width="100%"/>
 </div>
 
-Sinopsis
+📖 Sinopsis
 ----------------------------------------------------------------
 <p>
 En un mundo devastado, un joven rubio con su arma se enfrenta a oleadas infinitas de enemigos. Sobrevive a adversarios cuerpo a cuerpo y a distancia que aumentan en número y agresividad con cada ola.
 Tu misión es resistir ataques cada vez más letales mientras te desplazas y disparas. Con una jugabilidad frenética, WaveBlaster pondrá a prueba tus habilidades en una lucha sin fin. ¿Podrás superar tu mejor récord?
 </p>
 
-Controles 🎮
+🎮 Controles 
 ----------------------------------------------------------------
 <img src="/teclas.PNG" align="left" alt="Teclas Juego" width="400px"/>
 <h3>Desplazamiento</h3>
@@ -32,7 +32,7 @@ Cómo abrir el proyecto en Unity Editor
 Este juego fue desarrollado usando Unity Editor 2022.3.25f1, te sugerimos que descargues esta versión, ya que diferentes editores (especialmente los más antiguos) pueden dar problemas.
 </p>
 
-Funciones realizadas
+✨ Funciones realizadas
 ----------------------------------------------------------------
 <div align="center">
   <img src="/funciones_realizadas.png" alt="Funciones" width="100%"/>
