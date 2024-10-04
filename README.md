@@ -41,26 +41,26 @@ Funciones realizadas
 <div align="right">
   <img src="/transicion_menus.PNG"  alt="transiciones" width="50%"/>
   <div align="left">
-  <ol>
-    <li>Movimiento del jugador</li>
-    <li>Disparo de jugador</li>
-    <li>IA enemiga</li>
-    <li>Sistema de puntuación</li>
-    <li>Sistema de vida</li>
-    <li>Contador de oleadas</li>
-    <li>Menú de pausa</li>
-    <li>Menú configuraciones de sonido</li>
-    <li>Menú game over</li>
-    <li>Almacenamiento local de puntuaciones</li>
-    <li>Postprocesamiento de imagen</li>
-    <li>Cinemachine</li>
-    <li>NavMesh</li>
-    <li>AudioMixer</li>
-    <li>TextMeshPro</li>
-    <li>Unity Particles</li>
-    <li>LeanTween</li>
-  </ol>
-</div>
+    <ol>
+      <li>Movimiento del jugador</li>
+      <li>Disparo de jugador</li>
+      <li>IA enemiga</li>
+      <li>Sistema de puntuación</li>
+      <li>Sistema de vida</li>
+      <li>Contador de oleadas</li>
+      <li>Menú de pausa</li>
+      <li>Menú configuraciones de sonido</li>
+      <li>Menú game over</li>
+      <li>Almacenamiento local de puntuaciones</li>
+      <li>Postprocesamiento de imagen</li>
+      <li>Cinemachine</li>
+      <li>NavMesh</li>
+      <li>AudioMixer</li>
+      <li>TextMeshPro</li>
+      <li>Unity Particles</li>
+      <li>LeanTween</li>
+    </ol>
+  </div>
 </div>
 
 
