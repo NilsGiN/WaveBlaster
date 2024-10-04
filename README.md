@@ -3,5 +3,5 @@
 </h1>
 
 <div align="center">
-  <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" />
+<img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" style="width:100%;" />
 </div>
