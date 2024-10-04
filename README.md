@@ -40,9 +40,7 @@ Funciones realizadas
 
 <div align="right">
   <img src="/transicion_menus.PNG"  alt="transiciones" width="50%"/>
-</div>
-
-<div align="left">
+  <div align="left">
   <ol>
     <li>Movimiento del jugador</li>
     <li>Disparo de jugador</li>
@@ -63,3 +61,6 @@ Funciones realizadas
     <li>LeanTween</li>
   </ol>
 </div>
+</div>
+
+
