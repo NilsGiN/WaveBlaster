@@ -39,7 +39,7 @@ Funciones realizadas
 </div>
 
 <div align="right">
-  <img src="/transicion_menus.PNG"  alt="transiciones" width="60%"/>
+  <img src="/transicion_menus.PNG"  alt="transiciones" width="50%"/>
 </div>
 
 <div align="left">
