@@ -1,10 +1,10 @@
 <div align="center">
-  <span>
+  <h1>
     <font size="7">🚀<strong> WaveBlaster </strong>🚀</font>
     <p>
       <font size="3"><em> "El juego de oleadas infinitas" 🎮 </em></font>
     </p>
-  </span>
+  </h1>
     
 </div>
 
