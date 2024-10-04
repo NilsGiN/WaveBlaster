@@ -9,4 +9,16 @@
   <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" />
 </div>
 
+Sinopsis
+----------------------------------------------------------------
+<p align="left">
+En un mundo devastado, un joven rubio con su arma se enfrenta a oleadas infinitas de enemigos. Sobrevive a adversarios cuerpo a cuerpo y a distancia que aumentan en número y agresividad con cada ola.
+Tu misión es resistir ataques cada vez más letales mientras te desplazas y disparas. Con una jugabilidad frenética, WaveBlaster pondrá a prueba tus habilidades en una lucha sin fin. ¿Podrás superar tu mejor récord?
+</p>
+
+¿Cómo jugar?
+----------------------------------------------------------------
+
+
+
 
