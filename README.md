@@ -35,11 +35,11 @@ Este juego fue desarrollado usando Unity Editor 2022.3.25f1, te sugerimos que de
 Funciones realizadas
 ----------------------------------------------------------------
 <div align="center">
-  <img src="/menus.PNG" alt="menús del juego" width="300px"/>
+  <img src="/funciones_realizadas.png" alt="Funciones" width="100%"/>
 </div>
 
 <div align="right">
-  <img src="/transicion.PNG" alt="transiciones" width="300px"/>
+  <img src="/menus.PNG" alt="transiciones" width="300px"/>
 </div>
 
 <div align="left">
