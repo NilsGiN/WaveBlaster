@@ -34,7 +34,7 @@ Este juego fue desarrollado usando Unity Editor 2022.3.25f1, te sugerimos que de
 
 Funciones realizadas
 ----------------------------------------------------------------
-<img src="/funciones_realizadas.PNG" align="right" alt="Teclas Juego" width="400px"/>
+<img src="/funciones_realizadas.png" align="right" alt="Funciones" width="400px"/>
 <ol>
   <li>Movimiento del jugador</li>
   <li>Disparo de jugador</li>
