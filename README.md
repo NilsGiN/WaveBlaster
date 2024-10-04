@@ -19,26 +19,13 @@ Tu misión es resistir ataques cada vez más letales mientras te desplazas y dis
 ¿Cómo jugar? 🎮
 ----------------------------------------------------------------
 <img src="/teclas.PNG" align="left" alt="Teclas Juego" width="400px"/>
-<div style="margin-left: 20px;">
-  <h3>Desplazamiento</h3>
-    <ul>
-      <li>
-        <ul>
-          <li>AWSD</li>
-          <li>Flechas direccionales</li>
-        </ul>
-      </li>
-    </ul>
-    
-  <h3>Disparo</h3>
-    <ul>
-      <li>
-        <ul>
-          <li>Click</li>
-          <li>Barra espaciadora</li>
-        </ul>
-      </li>
-    </ul>
-</div>
+<h3>Desplazamiento</h3>
+  <p>• AWSD</p>
+  <p>• Flechas direccionales</p>
+  
+<h3>Disparo</h3>
+  <p>• Click</p>
+  <p>• Barra espaciadora</p>
+
 
 
