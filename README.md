@@ -38,9 +38,12 @@ Funciones realizadas
   <img src="/funciones_realizadas.png" alt="Funciones" width="100%"/>
 </div>
 
-<div>
-  <img src="/transicion_menus.PNG" align="right" alt="transiciones" width="60%/>
-  <ol align="left">
+<div align="right">
+  <img src="/transicion_menus.PNG"  alt="transiciones" width="60%"/>
+</div>
+
+<div align="left">
+  <ol>
     <li>Movimiento del jugador</li>
     <li>Disparo de jugador</li>
     <li>IA enemiga</li>
