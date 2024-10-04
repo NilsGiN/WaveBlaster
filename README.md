@@ -18,7 +18,7 @@ Tu misión es resistir ataques cada vez más letales mientras te desplazas y dis
 
 ¿Cómo jugar? 🎮
 ----------------------------------------------------------------
-<img src="/teclas.PNG" align="left" alt="Teclas Juego" height="300px" width="100px"/>
+<img src="/teclas.PNG" align="left" alt="Teclas Juego" width="300px"/>
 <p>
 Desplázate con AWSD o flechas para moverte por el mapa y dispara con click o barra espaciadora a todos los enemigos que aparecen
 </p>
