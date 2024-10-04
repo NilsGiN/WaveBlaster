@@ -38,7 +38,7 @@ Funciones realizadas
   <img src="/funciones_realizadas.png" alt="Funciones" width="100%"/>
 </div>
 
-<br><br>
+<br>
 
 <div>
   <img src="/transicion_menus.PNG" align="right" alt="transiciones" height="500px">
