@@ -58,7 +58,6 @@ Funciones realizadas
     <li>Unity Particles</li>
     <li>LeanTween</li>
   </ol>
-  <br>
   <img src="/transicion_menus.PNG" align="right" alt="transiciones" width="50%" />
 </div>
 
