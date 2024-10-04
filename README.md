@@ -1,9 +1,13 @@
 <div align="center">
-  <span style="font-size: 80px;">🚀<strong> WaveBlaster </strong>🚀</span><br>
-  <span style="font-size: 18px;"><em>"El juego de oleadas infinitas" 🎮</em></span>
+  <span>
+    <font size="7">🚀<strong> WaveBlaster </strong>🚀</font>
+    <p>
+      <font size="3"><em> "El juego de oleadas infinitas" 🎮 </em></font>
+    </p>
+  </span>
+    
 </div>
 
-<hr>
 
 <div align="">
   <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" />
