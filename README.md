@@ -1,7 +1,9 @@
-<h3 align="center" style="font-size: 48px; margin: 0;">🚀 WaveBlaster 🚀</h3>
-<p align="left">
-Just upload your videos, and be sure they will stream anywhere. Add a description, some tags and your video will be discoverable by the entire video fediverse, not just your instance. You can even embed a player on your favorite website!
-</p>
+</div>
+  <h1 align="center">🚀 WaveBlaster 🚀</h1>
+  <p align="left">
+  ¡Enfréntate a oleadas interminables de enemigos en este adictivo juego! Cada horda trae más monstruos y un desafío creciente. ¿Podrás sobrevivir a la marea de adversarios y establecer tu récord? ¡La batalla nunca termina!
+  </p>
+</div>
 
 <div align="center">
   <img src="/WaveBlaster_GamePlay.gif" alt="WaveBlaster Gameplay" />
