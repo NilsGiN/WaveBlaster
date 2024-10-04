@@ -59,7 +59,7 @@ Funciones realizadas
     <li>LeanTween</li>
   </ol>
   <br>
-  <img src="/transicion_menus.PNG" alt="transiciones" width="50%" />
+  <img src="/transicion_menus.PNG" align="right" alt="transiciones" width="50%" />
 </div>
 
 
