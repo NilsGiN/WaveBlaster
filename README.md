@@ -39,7 +39,7 @@ Funciones realizadas
 </div>
 
 <div align="right">
-  <img src="/transicion_menus.PNG" align="right" alt="transiciones" height="300px">
+  <img src="/transicion_menus.PNG" align="right" alt="transiciones" height="500px">
   <ol>
     <li >Movimiento del jugador</li>
     <li>Disparo de jugador</li>
